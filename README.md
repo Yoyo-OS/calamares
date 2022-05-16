@@ -2,7 +2,7 @@
      SPDX-License-Identifier: CC0-1.0
 -->
 
-# Cutefish Calamares
+# Yoyo Calamares
 
 > Calamares is a distribution-independent system installer, with an advanced partitioning
 > feature for both manual and automated partitioning operations. Calamares is designed to

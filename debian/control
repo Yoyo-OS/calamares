@@ -1,4 +1,4 @@
-Source: cutefish-calamares
+Source: yoyo-calamares
 Section: utils
 Priority: optional
 Maintainer: Jonathan Carter <jcc@debian.org>
@@ -40,7 +40,7 @@ Standards-Version: 4.6.0
 Rules-Requires-Root: no
 Homepage: https://github.com/calamares/calamares
 
-Package: cutefish-calamares
+Package: yoyo-calamares
 Architecture: linux-any
 Depends: os-prober, ${misc:Depends}, ${shlibs:Depends}
 Recommends: btrfs-progs, squashfs-tools
